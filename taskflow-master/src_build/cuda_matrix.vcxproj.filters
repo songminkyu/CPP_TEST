@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CudaCompile Include="..\unittests\cuda\cuda_matrix.cu">
+      <Filter>Source Files</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\taskflow-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6C06E1E4-CB69-3F5D-9479-AD3E6928BC24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

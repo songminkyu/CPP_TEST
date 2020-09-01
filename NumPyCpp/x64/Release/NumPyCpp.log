@@ -1,0 +1,30 @@
+﻿  소스1.cpp
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\Functions\diagflat.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(1291,32): error C2668: 'nc::NdArray<double>::operator []': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(451,22): message : 'const dtype &nc::NdArray<dtype>::operator [](nc::int32) const'일 수 있습니다.
+          with
+          [
+              dtype=double
+          ]
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(430,16): message : 또는       'dtype &nc::NdArray<dtype>::operator [](nc::int32)'
+          with
+          [
+              dtype=double
+          ]
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(1292,1): message : 인수 목록 '(uint32_t)'을(를) 일치시키는 동안
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(1281): message : 클래스 템플릿 멤버 함수 'nc::NdArray<nc::uint32> nc::NdArray<double>::argsort(nc::Axis) noexcept const'을(를) 컴파일하는 중입니다.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\Functions\argsort.hpp(50): message : 컴파일되는 함수 템플릿 인스턴스화 'nc::NdArray<nc::uint32> nc::NdArray<double>::argsort(nc::Axis) noexcept const'에 대한 참조를 확인하세요.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(3999): message : 컴파일되는 클래스 템플릿 인스턴스화 'nc::NdArray<double>'에 대한 참조를 확인하세요.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(3999): message : 컴파일되는 클래스 템플릿 인스턴스화 'nc::NdArray<dtype>'에 대한 참조를 확인하세요.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(1291,49): error C2668: 'nc::NdArray<double>::operator []': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(451,22): message : 'const dtype &nc::NdArray<dtype>::operator [](nc::int32) const'일 수 있습니다.
+          with
+          [
+              dtype=double
+          ]
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(430,16): message : 또는       'dtype &nc::NdArray<dtype>::operator [](nc::int32)'
+          with
+          [
+              dtype=double
+          ]
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\NumPyCpp\NumCpp\include\NumCpp\NdArray\NdArrayCore.hpp(1292,1): message : 인수 목록 '(uint32_t)'을(를) 일치시키는 동안

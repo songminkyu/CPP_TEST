@@ -1,0 +1,9 @@
+﻿  소스1.cpp
+  The contents of <concepts> are only available with C++20 concepts support.
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(7,1): error C2061: 구문 오류: 식별자 'invocable'
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(7,35): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(7,35): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(23,1): error C2027: 정의되지 않은 형식 'A'을(를) 사용했습니다.
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(11): message : 'A' 선언을 참조하십시오.
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(26,11): error C3536: 'fn': 초기화되기 전에 사용할 수 없습니다.
+D:\00_OpenCV_Project\Study_at_Australia\Veriadic template_2019\CPP_TEST\CLangTest\소스1.cpp(31,4): error C2676: 이항 '<<': 'A'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.

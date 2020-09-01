@@ -1,0 +1,6 @@
+﻿  Building Custom Rule D:/00_OpenCV_Project/Study_at_Australia/CPP/Veriadic_template_2019/CPP_TEST/taskflow-master/CMakeLists.txt
+  utility.cpp
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\taskflow-master\unittests\utility.cpp(243,8): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\taskflow-master\unittests\utility.cpp(273,8): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\taskflow-master\unittests\utility.cpp(314,45): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  utility.vcxproj -> D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\taskflow-master\unittests\Release\utility.exe

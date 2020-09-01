@@ -1,0 +1,12 @@
+namespace tf {
+
+/** @page Algorithms Algorithms
+
+  %Taskflow defines a collection of algorithm functions especially designed to be used on ranges of elements.
+  
+  @subpage A0ForEach @n
+  @subpage A1Reduce @n
+
+*/
+
+}
