@@ -9,8 +9,6 @@
 
 Taskflow helps you quickly write parallel tasks programs in modern C++
 
-:exclamation: Starting from [v2.5.0](https://github.com/taskflow/taskflow/releases/tag/2.5.0), we have renamed cpp-taskflow to ***taskflow*** to broaden its support and future application scopes. The core codebase remains *unchanged*. You may only need to [change the remote URL](https://help.github.com/en/github/using-git/changing-a-remotes-url) to this new repository. Thank your for the support!
-
 # Why Taskflow?
 
 Taskflow is faster, more expressive, and easier for drop-in integration
@@ -634,18 +632,15 @@ Taskflow is being used in both industry and academic projects to scale up existi
 that incorporate complex task dependencies. 
 
 - [OpenTimer][OpenTimer]: A High-performance Timing Analysis Tool for Very Large Scale Integration (VLSI) Systems
-- [DtCraft][DtCraft]: A General-purpose Distributed Programming Systems using Data-parallel Streams
-- [Firestorm][Firestorm]: Fighting Game Engine with Asynchronous Resource Loaders (developed by [ForgeMistress][ForgeMistress])
-- [Shiva][Shiva]: An extensible engine via an entity component system through scripts, DLLs, and header-only (C++)
-- [PID Framework][PID Framework]: A Global Development Methodology Supported by a CMake API and Dedicated C++ Projects 
 - [NovusCore][NovusCore]: An emulating project for World of Warraft (Wrath of the Lich King 3.3.5a 12340 client build)
 - [SA-PCB][SA-PCB]: Annealing-based Printed Circuit Board (PCB) Placement Tool
 - [LPMP](https://github.com/LPMP/LPMP): A C++ framework for developing scalable Lagrangian decomposition solvers for discrete optimization problems
-- [Heteroflow](https://github.com/Heteroflow/Heteroflow): A Modern C++ Parallel CPU-GPU Task Programming Library
 - [OpenPhySyn](https://github.com/The-OpenROAD-Project/OpenPhySyn): A plugin-based physical synthesis optimization kit as part of the OpenRoad flow
 - [OSSIA](https://ossia.io/): Open-source Software System for Interactive Applications
 - [deal.II](https://github.com/dealii/dealii): A C++ software library to support the creation of finite element code
 - [PyRepScan](https://github.com/Intsights/PyRepScan): A Git Repository Leaks Scanner Python Library written in C++
+- [MyDataModels](https://www.mydatamodels.com/): An online platform for self-service machine learning fro small data
+- [revealtech.ai](http://www.revealtech.ai/): Mobile application that provides focused, intelligent analytics on the edge
 
 [More...](https://github.com/search?q=taskflow&type=Code)
 
