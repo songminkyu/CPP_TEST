@@ -244,6 +244,9 @@
     <Filter Include="Pack expansion\fold expression">
       <UniqueIdentifier>{ebf78dec-edc4-44e8-bcb9-211f8c550e0c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="concepts\neo">
+      <UniqueIdentifier>{aabdc2fb-a896-4a99-9a3d-58820d41c805}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="string_start_end_with.cpp">
@@ -1119,6 +1122,15 @@
     <ClCompile Include="소스176.cpp">
       <Filter>concepts</Filter>
     </ClCompile>
+    <ClCompile Include="neo\concepts.test.cpp">
+      <Filter>concepts\neo</Filter>
+    </ClCompile>
+    <ClCompile Include="neo\iterator_concepts.test.cpp">
+      <Filter>concepts\neo</Filter>
+    </ClCompile>
+    <ClCompile Include="neo_main.cpp">
+      <Filter>concepts\neo</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="modules\Advenced_module\my_vctr.ixx">
@@ -1171,6 +1183,15 @@
     </ClInclude>
     <ClInclude Include="MultiCastDelegate.h">
       <Filter>Delegate\fast_delegate</Filter>
+    </ClInclude>
+    <ClInclude Include="neo\concepts.hpp">
+      <Filter>concepts\neo</Filter>
+    </ClInclude>
+    <ClInclude Include="neo\iterator_concepts.hpp">
+      <Filter>concepts\neo</Filter>
+    </ClInclude>
+    <ClInclude Include="neo\test_concept.hpp">
+      <Filter>concepts\neo</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

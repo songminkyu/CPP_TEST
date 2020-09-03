@@ -1,8 +1,1 @@
-﻿  소스176.cpp
-x64\Release\PersonBuilder.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
-  코드를 생성하고 있습니다.
-  186 of 461 functions (40.3%) were compiled, the rest were copied from previous compilation.
-    159 functions were new in current compilation
-    23 functions had inline decision re-evaluated but remain unchanged
-  코드를 생성했습니다.
-  CPP_TEST.vcxproj -> D:\00_OpenCV_Project\Study_at_Australia\CPP\Veriadic_template_2019\CPP_TEST\x64\Release\CPP_TEST.exe
+﻿

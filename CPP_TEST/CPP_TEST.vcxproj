@@ -257,6 +257,9 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="neo\concepts.test.cpp" />
+    <ClCompile Include="neo\iterator_concepts.test.cpp" />
+    <ClCompile Include="neo_main.cpp" />
     <ClCompile Include="new_auto.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
@@ -827,7 +830,9 @@
     <ClCompile Include="소스175.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="소스176.cpp" />
+    <ClCompile Include="소스176.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="소스18.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
@@ -1289,6 +1294,9 @@
     <ClInclude Include="NamedType-master\named_type.hpp" />
     <ClInclude Include="NamedType-master\named_type_impl.hpp" />
     <ClInclude Include="NamedType-master\underlying_functionalities.hpp" />
+    <ClInclude Include="neo\concepts.hpp" />
+    <ClInclude Include="neo\iterator_concepts.hpp" />
+    <ClInclude Include="neo\test_concept.hpp" />
     <ClInclude Include="omem\omem.hpp" />
     <ClInclude Include="Person.h" />
     <ClInclude Include="StaticOperatorFunctions.h">
